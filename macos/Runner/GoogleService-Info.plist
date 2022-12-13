@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>475262138558-ubb6t42hdq5ogefs9p3e5ik7hbs2vic2.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.475262138558-ubb6t42hdq5ogefs9p3e5ik7hbs2vic2</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAGm2GVEpAmhsl-9q0g43Gkt3gfBYLvALQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>475262138558</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.last</string>
+	<key>PROJECT_ID</key>
+	<string>travelit-8bdae</string>
+	<key>STORAGE_BUCKET</key>
+	<string>travelit-8bdae.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:475262138558:ios:580c6eb2481fa0f15ec6ef</string>
+</dict>
+</plist>

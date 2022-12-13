@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "475262138558",
+    "project_id": "travelit-8bdae",
+    "storage_bucket": "travelit-8bdae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475262138558:android:93f3789d8c6d4ad05ec6ef",
+        "android_client_info": {
+          "package_name": "com.example.last"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475262138558-ivfl4l8rh99jl4alcekpv5jm529rtpl3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjrj3aUmT6Xqu4kBGluLG6-LqSoPZTp7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475262138558-ivfl4l8rh99jl4alcekpv5jm529rtpl3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
