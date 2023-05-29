@@ -1,4 +1,9 @@
-# Description
+<div align="center">
+  
+# TRAVEL.IT
+  
+</div>
+
 <div align="justify">
 Aplikasi Travelit adalah aplikasi mobile yang dibangun dengan menggunakan framework Flutter dan terkoneksi dengan Firebase. Tujuan dari aplikasi ini adalah untuk memudahkan pengguna dalam melakukan review terhadap berbagai tempat wisata yang ada di suatu daerah atau negara. Selain itu, admin aplikasi juga dapat menambahkan destinasi wisata baru ke dalam aplikasi.
   
@@ -11,12 +16,9 @@ Selain itu, aplikasi Travelit juga memiliki fitur admin yang dapat digunakan unt
 Dengan menggunakan aplikasi Travelit, pengguna dapat dengan mudah menemukan informasi tentang berbagai tempat wisata dan menuliskan ulasan mereka secara langsung dari aplikasi. Selain itu, fitur admin juga memudahkan pihak penyedia destinasi wisata untuk menambahkan informasi baru ke dalam aplikasi.
 </div>
 
-## Output
-![Alt Text](https://github.com/Ionic12/flutter-app-travelit/blob/main/landing.jpg)
-![Alt Text](https://github.com/Ionic12/flutter-app-travelit/blob/main/onboarding-1.jpg)
-![Alt Text](https://github.com/Ionic12/flutter-app-travelit/blob/main/onboarding-2.jpg)
-![Alt Text](https://github.com/Ionic12/flutter-app-travelit/blob/main/login.jpg)
-![Alt Text](https://github.com/Ionic12/flutter-app-travelit/blob/main/home.jpg)
-![Alt Text](https://github.com/Ionic12/flutter-app-travelit/blob/main/destination.jpg)
-![Alt Text](https://github.com/Ionic12/flutter-app-travelit/blob/main/review.jpg)
-![Alt Text](https://github.com/Ionic12/flutter-app-travelit/blob/main/review-form.jpg)
+<div align="center">
+  
+# TRAVEL.IT Mobile View
+  
+</div>
+<img src="travelit.png" />
