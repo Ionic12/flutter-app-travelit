@@ -21,4 +21,4 @@ Dengan menggunakan aplikasi Travelit, pengguna dapat dengan mudah menemukan info
 # TRAVEL.IT Mobile View
   
 </div>
-<img src="travelit.png" />
+<img src="travelit2.png" />
