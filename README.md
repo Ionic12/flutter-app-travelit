@@ -1,7 +1,13 @@
 <div align="center">
   
 # TRAVEL.IT
-  
+
+<p align="center" style="background-color: white;">
+  <a href="https://flutter.dev" target="_blank">
+    <img src="https://storage.googleapis.com/cms-storage-bucket/ec64036b4eacc9f3fd73.svg" width="400" alt="Flutter Logo">
+  </a>
+</p>
+
 </div>
 
 <div align="justify">
