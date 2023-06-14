@@ -6,8 +6,7 @@
 
 <div align="justify">
 Aplikasi Travelit adalah aplikasi mobile yang dibangun dengan menggunakan framework Flutter dan terkoneksi dengan Firebase. Tujuan dari aplikasi ini adalah untuk memudahkan pengguna dalam melakukan review terhadap berbagai tempat wisata yang ada di suatu daerah atau negara. Selain itu, admin aplikasi juga dapat menambahkan destinasi wisata baru ke dalam aplikasi.
-<br>
-  
+<br><br>
 Pada aplikasi ini, pengguna dapat melakukan proses autentikasi atau login. Setelah berhasil login, pengguna akan diarahkan ke halaman utama aplikasi, di mana terdapat daftar berbagai tempat wisata yang dapat di-review. Selain itu, terdapat fitur pencarian untuk mencari destinasi wisata yang diinginkan.
 
 Saat melakukan review, pengguna dapat memberikan penilaian serta menuliskan ulasan tentang tempat wisata tersebut. Review yang ditulis oleh pengguna akan disimpan ke dalam database Firebase yang terkoneksi dengan aplikasi. Setelah berhasil ditambahkan, review tersebut akan ditampilkan ke dalam halaman detail tempat wisata yang bersangkutan.
